@@ -5,7 +5,7 @@ library(sf)
 library(ggplot2)
 library(bayesplot)
 ## you can load some helpful functions from the geostan R package;
-## please cite the package if you use these. The package will be released to CRAN sometime soon.
+## The package will be released to CRAN sometime soon.
 ## github.com/ConnorDonegan/geostan
 source("https://raw.githubusercontent.com/ConnorDonegan/geostan/master/R/convenience-functions.R")
 
